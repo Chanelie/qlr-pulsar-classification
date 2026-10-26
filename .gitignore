@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Environments and editors
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+*.swp
+*~
+
+# Generated and machine-specific outputs
+caches/
+models/
+logs/
+results/
+tmp/
+*.pkl
+*.pickle
+*.joblib
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini

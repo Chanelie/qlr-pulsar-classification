@@ -1,0 +1,20 @@
+Model,Train_s,Pred_s
+LogReg,0.02 ± 0.00,0.00 ± 0.00
+CSVM,0.04 ± 0.00,0.00 ± 0.00
+XGBoost,0.20 ± 0.01,0.00 ± 0.00
+QSVM,34.06 ± 2.65,1218.11 ± 91.78
+QLR_amplitude (L=1),61.03 ± 0.26,3.41 ± 0.18
+QLR_angle (L=1),391.51 ± 1.73,5.73 ± 0.16
+QLR_data_reuploading (L=1),349.22 ± 10.50,4.62 ± 0.19
+QLR_amplitude (L=2),145.47 ± 9.76,4.51 ± 0.44
+QLR_angle (L=2),968.62 ± 9.51,7.83 ± 0.04
+QLR_data_reuploading (L=2),1125.53 ± 1.27,7.47 ± 0.12
+QLR_amplitude (L=3),279.50 ± 19.30,5.50 ± 0.19
+QLR_angle (L=3),1813.21 ± 73.63,10.69 ± 0.08
+QLR_data_reuploading (L=3),2348.32 ± 7.28,10.38 ± 0.16
+QLR_amplitude (L=5),605.24 ± 26.84,6.31 ± 0.20
+QLR_angle (L=5),3973.16 ± 28.34,15.79 ± 0.05
+QLR_data_reuploading (L=5),5955.29 ± 10.99,15.91 ± 0.19
+QLR_amplitude (L=10),2130.76 ± 119.71,10.55 ± 0.20
+QLR_angle (L=10),13331.37 ± 78.35,32.06 ± 0.13
+QLR_data_reuploading (L=10),21507.87 ± 22.96,32.20 ± 0.59

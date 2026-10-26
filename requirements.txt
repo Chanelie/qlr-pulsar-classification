@@ -1,0 +1,36 @@
+# Versions recorded for the completed experimental grid.
+
+# Core numeric stack
+numpy==2.2.6
+scipy==1.15.3
+
+
+# Quantum libraries
+pennylane==0.42.3
+pennylane-lightning==0.42.0
+autoray==0.7.2
+
+
+# Graph, IO, utilities
+networkx
+rustworkx==0.17.1
+toml
+appdirs
+cachetools
+requests
+typing-extensions
+
+
+# Data & ML
+pandas==2.3.3
+scikit-learn==1.7.2
+xgboost==3.2.0
+
+
+# Plotting & monitoring
+matplotlib
+seaborn
+psutil
+
+# Dataset helper
+ucimlrepo

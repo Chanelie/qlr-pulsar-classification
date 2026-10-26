@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article and this software release."
+title: "Hybrid quantum-classical logistic regression for pulsar candidate classification"
+type: software
+authors:
+  - family-names: "Manfouo"
+    given-names: "Chanelle Matadah"
+version: "0.1.0-rc1"
+date-released: "2026-10-26"
+repository-code: "https://github.com/Chanelie/qlr-pulsar-classification"
+keywords:
+  - quantum machine learning
+  - pulsar classification
+  - probability calibration
+  - logistic regression
+  - HTRU2
